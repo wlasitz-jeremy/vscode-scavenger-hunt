@@ -2,10 +2,10 @@
 
 - 1.Control + Shift + P
 - 2.Git Config --Help
-- 3. Control + S 
+- 3.Control + S 
 - 4.Git Config -h
 - 5.Git diff --staged
-- 6. Git diff
+- 6.Git diff
 - 7.Git log
 - 8.Git log --oneline
 
