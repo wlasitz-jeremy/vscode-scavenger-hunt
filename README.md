@@ -8,6 +8,8 @@
 4.Git Config -h
 5.Git diff --staged
 6. Git diff
+7.Git log
+8.Git log --oneline
 
 
 ### What does the command do?
@@ -19,7 +21,9 @@
 3.Saves your code 
 4.Summerizes Git Config Help Pages
 5.Compares all files in staging area and what is going in your next commit
-6.Compares all diles in the working directory with the staging area
+6.Compares all files in the working directory with the staging area
+7.Showes all commit history
+8.Showes summerized commit history
 
 
 
