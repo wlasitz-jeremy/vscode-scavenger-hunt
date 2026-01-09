@@ -1,11 +1,11 @@
-1. Split documents, file creation and the eaase of everything 
-2. ctrl shift P
-3.is this even working?
-omg this works
-its working now?? hehhee
-okay so now this works?
-now does it work?
-now itll work i thinkn
-okay so it doesnt work?
-sbvkrebvkejbvekjlbvekajlbverkjbverk
-fuck me whould this work?
+# Important Controls to remember!
+
+## Notes 
+
+- 1. Control + Shift + P 
+
+### What does the command do?
+
+## Notes
+
+1. Control plus shift plus P opens the vs-code search menu at the top of the program 
