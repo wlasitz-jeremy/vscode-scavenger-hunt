@@ -1,6 +1,4 @@
-# Important Controls to remember!
-
-## Notes 
+# Important Controls!
 
 1.Control + Shift + P
 2.Git Config --Help
@@ -11,10 +9,7 @@
 7.Git log
 8.Git log --oneline
 
-
 ### What does the command do?
-
-## Notes
 
 1.Control plus shift plus P opens the vs-code search menu at the top of the program
 2.Opens up all commands for Git Config, Press space to go to the next page, Press Q to exit
@@ -24,9 +19,6 @@
 6.Compares all files in the working directory with the staging area
 7.Showes all commit history
 8.Showes summerized commit history
-
-
-
 
 ## To do list
 
