@@ -20,5 +20,5 @@
 7.Showes all commit history
 8.Showes summerized commit history
 
-## To do list
+## To do
 
