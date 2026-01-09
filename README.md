@@ -29,6 +29,4 @@
 
 
 ## To do list
-1.Install posh-git
-2.
 
