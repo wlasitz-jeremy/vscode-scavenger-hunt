@@ -6,6 +6,8 @@
 2.Git Config --Help
 3. Control + S 
 4.Git Config -h
+5.Git diff --staged
+6. Git diff
 
 
 ### What does the command do?
@@ -16,6 +18,11 @@
 2.Opens up all commands for Git Config, Press space to go to the next page, Press Q to exit
 3.Saves your code 
 4.Summerizes Git Config Help Pages
+5.Compares all files in staging area and what is going in your next commit
+6.Compares all diles in the working directory with the staging area
+
+
+
 
 ## To do list
 1.Install posh-git
